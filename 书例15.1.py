@@ -1,6 +1,6 @@
 import os
 import re
-'打开windows系统下的目录'
+'鎵撳紑windows鐩綍涓嬬殑鏂囦欢'
 #f=open('D:/python_work/whodata.txt','r')
 f=os.popen('dir','r')
 h=open('D:/python_work/rewrite.txt','w')
